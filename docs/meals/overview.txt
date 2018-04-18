@@ -1,0 +1,32 @@
+6214 - 3 Piece Chicken Select Meal (Large)
+6111 - McChicken Sandwich Meal (Large)
+6020 - Quarter Pounder Meal (Medium)
+
+1060 - Quarter Pounder
+1472 - McChicken Sandwich
+1427 - 3 Chicken Selects
+
+3010 - Large Coke (Standalone)
+3030 - Large Coke (Part of meal)
+3080 - Large Diet (Part of meal)
+
+4635 - BBQ Sauce (Part of meal)
+4834 - Large Fries (Part of meal)
+4833 - Regular Fries (Part of meal)
+3175 - Regular Coke Zero (Part of meal)
+
+7616 - Ketchup
+7611 - Onion
+7971 - Cheese
+7617 - Pickles
+7888 - Mustard
+
+7619 - Mayo
+7979 - Lettuce
+
+90080440 - Ice
+
+10000011 - Side Selection Menu
+10000008 - Drink Selection Menu
+0 - Sub Menu
+9021 - Soft Drink Menu

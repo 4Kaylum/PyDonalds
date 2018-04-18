@@ -1,0 +1,159 @@
+{
+    "Choices": [
+        {
+            "ChoiceSolution": {
+                "Choices": [],
+                "Components": [],
+                "Customizations": [],
+                "ChangeStatus": 0,
+                "IsLight": false,
+                "IsPromotional": false,
+                "ProductCode": 4834,
+                "PromoQuantity": 0,
+                "Quantity": 1,
+                "TotalEnergy": 0.0,
+                "TotalValue": 0.0,
+                "UnitPrice": 0.0,
+                "ValidationErrorCode": 0
+            },
+            "ChangeStatus": 0,
+            "IsLight": false,
+            "IsPromotional": false,
+            "ProductCode": 10000011,
+            "PromoQuantity": 0,
+            "Quantity": 1,
+            "TotalEnergy": 0.0,
+            "TotalValue": 0.0,
+            "UnitPrice": 0.0,
+            "ValidationErrorCode": 0
+        },
+        {
+            "ChoiceSolution": {
+                "Choices": [
+                    {
+                        "ChoiceSolution": {
+                            "Choices": [],
+                            "Components": [],
+                            "Customizations": [
+                                {
+                                    "Choices": [],
+                                    "Components": [],
+                                    "Customizations": [],
+                                    "ChangeStatus": 0,
+                                    "IsLight": false,
+                                    "IsPromotional": false,
+                                    "ProductCode": 90080440,
+                                    "PromoQuantity": 0,
+                                    "Quantity": 0,
+                                    "TotalEnergy": 0.0,
+                                    "TotalValue": 0.0,
+                                    "UnitPrice": 0.0,
+                                    "ValidationErrorCode": 0
+                                }
+                            ],
+                            "ChangeStatus": 0,
+                            "IsLight": false,
+                            "IsPromotional": false,
+                            "ProductCode": 3080,
+                            "PromoQuantity": 0,
+                            "Quantity": 1,
+                            "TotalEnergy": 0.0,
+                            "TotalValue": 0.0,
+                            "UnitPrice": 0.0,
+                            "ValidationErrorCode": 0
+                        },
+                        "ChangeStatus": 0,
+                        "IsLight": false,
+                        "IsPromotional": false,
+                        "ProductCode": 9021,
+                        "PromoQuantity": 0,
+                        "Quantity": 1,
+                        "TotalEnergy": 0.0,
+                        "TotalValue": 0.0,
+                        "UnitPrice": 0.0,
+                        "ValidationErrorCode": 0
+                    }
+                ],
+                "ChangeStatus": 0,
+                "IsLight": false,
+                "IsPromotional": false,
+                "ProductCode": 0,
+                "PromoQuantity": 0,
+                "Quantity": 0,
+                "TotalEnergy": 0.0,
+                "TotalValue": 0.0,
+                "UnitPrice": 0.0,
+                "ValidationErrorCode": 0
+            },
+            "ChangeStatus": 0,
+            "IsLight": false,
+            "IsPromotional": false,
+            "ProductCode": 10000008,
+            "PromoQuantity": 0,
+            "Quantity": 1,
+            "TotalEnergy": 0.0,
+            "TotalValue": 0.0,
+            "UnitPrice": 0.0,
+            "ValidationErrorCode": 0
+        }
+    ],
+    "Components": [
+        {
+            "Choices": [],
+            "Components": [],
+            "Customizations": [
+                {
+                    "Choices": [],
+                    "Components": [],
+                    "Customizations": [],
+                    "ChangeStatus": 0,
+                    "IsLight": false,
+                    "IsPromotional": false,
+                    "ProductCode": 7619,
+                    "PromoQuantity": 0,
+                    "Quantity": 2,
+                    "TotalEnergy": 0.0,
+                    "TotalValue": 0.0,
+                    "UnitPrice": 0.0,
+                    "ValidationErrorCode": 0
+                },
+                {
+                    "Choices": [],
+                    "Components": [],
+                    "Customizations": [],
+                    "ChangeStatus": 0,
+                    "IsLight": false,
+                    "IsPromotional": false,
+                    "ProductCode": 7979,
+                    "PromoQuantity": 0,
+                    "Quantity": 2,
+                    "TotalEnergy": 0.0,
+                    "TotalValue": 0.0,
+                    "UnitPrice": 0.0,
+                    "ValidationErrorCode": 0
+                }
+            ],
+            "ChangeStatus": 0,
+            "IsLight": false,
+            "IsPromotional": false,
+            "ProductCode": 1472,
+            "PromoQuantity": 0,
+            "Quantity": 1,
+            "TotalEnergy": 0.0,
+            "TotalValue": 0.0,
+            "UnitPrice": 0.0,
+            "ValidationErrorCode": 0
+        }
+    ],
+    "Customizations": [],
+    "ChangeStatus": 0,
+    "IsLight": false,
+    "IsPromotional": false,
+    "ProductCode": 6111,
+    "PromoQuantity": 0,
+    "Quantity": 1,
+    "TotalEnergy": 0.0,
+    "TotalValue": 0.0,
+    "UnitPrice": 0.0,
+    "ValidationErrorCode": 0
+}
