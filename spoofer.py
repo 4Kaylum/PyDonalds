@@ -130,7 +130,7 @@ class Spoofer(object):
 
 
     @_check_signed_in
-    def payment(self, order:Order, *, price_type:int=2, payment_data_id:int=-1, payment_method_id:int=5, pod:int=0, customer_payment_method_id:int):
+    def payment(self, order:Order, customer_payment_method_id:int, *, price_type:int=2, payment_data_id:int=-1, payment_method_id:int=5, pod:int=0):
         '''
         Sends a payment to the store location
         '''
@@ -159,7 +159,7 @@ class Spoofer(object):
 
 
     @_check_signed_in
-    def pickup(self, order:Order, *, check_in_data:str='0', price_type:int=2, payment_data_id:int=-1, payment_method_id:int=5, pod:int=0, customer_payment_method_id:int):
+    def pickup(self, order:Order, customer_payment_method_id:int, *, check_in_data:str='0', price_type:int=2, payment_data_id:int=-1, payment_method_id:int=5, pod:int=0):
         '''
         Lets you pick up your order - THIS WILL CHARGE YOUR PAYMENT METHOD
         '''
